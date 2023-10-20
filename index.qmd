@@ -17,4 +17,17 @@ about:
       href: mailto:dilkyfelsinger@hotmail.com
 ---
         
-# page content excluded for brevity ~
+<!-- # page content excluded for brevity ~ -->
+
+Hi There! I'm Dilky Felsinger. I am a Data Scientist and a HCI Researcher. Beyond my work, I'm an unapologetic foodie. Explore my website to learn more about my diverse interests and experiences!
+
+## Education
+
+University of Colombo School of Computing | Colombo, Sri Lanka    
+BSc. (Hons) in Computer Science | 2018 - 2021
+
+## Experience
+
+Ascentic Pvt Ltd | Data Scientist | April 2018 - present
+
+Creative Software Pvt Ltd | Data Science Intern | Spet 2012 - April 2018

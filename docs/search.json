@@ -11,6 +11,34 @@
     "href": "index.html",
     "title": "Dilky Felsinger",
     "section": "",
-    "text": "page content excluded for brevity ~"
+    "text": "Hi There! I’m Dilky Felsinger. I am a Data Scientist and a HCI Researcher. Beyond my work, I’m an unapologetic foodie. Explore my website to learn more about my diverse interests and experiences!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Dilky Felsinger",
+    "section": "Education",
+    "text": "Education\nUniversity of Colombo School of Computing | Colombo, Sri Lanka\nBSc. (Hons) in Computer Science | 2018 - 2021"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Dilky Felsinger",
+    "section": "Experience",
+    "text": "Experience\nAscentic Pvt Ltd | Data Scientist | April 2018 - present\nCreative Software Pvt Ltd | Data Science Intern | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "About this site"
   }
 ]

@@ -8,7 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
+      - projects.qmd
+  
+  page-footer: 
+    background: light
+    left: Copyright 2023, Dilky Felsinger
+    right: This website is built with [Quarto](https://quarto.org/)
 
 format:
   html:
