@@ -1,7 +1,20 @@
 ---
-title: "dilky97.github.io"
+title: "Dilky Felsinger"
+image: portait.png
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/dilky-felsinger/
+    - text: Twitter
+      href: https://twitter.com/dilkyfelsinger
+    - text: GitHub
+      href: https://github.com/dilky97
+    - text: Email
+      href: mailto:dilkyfelsinger@hotmail.com
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+        
+# page content excluded for brevity ~
