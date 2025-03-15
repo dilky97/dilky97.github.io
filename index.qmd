@@ -1,33 +1,48 @@
 ---
 title: "Dilky Felsinger"
 image: portait.png
-toc: false
-about: 
-  template: trestles
-  image-shape: round
-  image-width: 20em
+about:
+  template: jolla
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/dilky-felsinger/
-    - text: Twitter
-      href: https://twitter.com/dilkyfelsinger
-    - text: GitHub
+    - icon: envelope
+      text: Email
+      href: mailto:dilky_felsinger@sfu.ca
+    - icon: github
+      text: Github
       href: https://github.com/dilky97
-    - text: Email
-      href: mailto:dilkyfelsinger@hotmail.com
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: "#"
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dilky-felsinger/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/dilkyfelsinger
 ---
-        
-<!-- # page content excluded for brevity ~ -->
 
-Hi There! I'm Dilky Felsinger. I am a Data Scientist and a HCI Researcher. Beyond my work, I'm an unapologetic foodie. Explore my website to learn more about my diverse interests and experiences!
+## Welcome to my personal website!
+
+I am a Master's student in Interactive Arts and Technology at Simon Fraser University with a background in Computer Science. My research interests include human-computer interaction, AI literacy, and educational technology. Currently, I work as a Research Assistant at the Tangible Embodied Child-Computer Interaction (TECI) Lab at SIAT, SFU, and as a Machine Learning Engineer at QCA Systems Ltd.
+
+[View my full resume](about.qmd) | [Explore my research](research.qmd) | [Check out my projects](projects.qmd)
 
 ## Education
 
-University of Colombo School of Computing | Colombo, Sri Lanka    
-BSc. (Hons) in Computer Science | 2018 - 2021
+**Simon Fraser University** | Surrey, BC  
+MSc in Interactive Arts and Technology | Sep 2024 - Present  
+*Current GPA: 4.33/4.33*
+
+**University of Colombo School of Computing** | Colombo, Sri Lanka  
+BSc. (Hons) in Computer Science | Jan 2018 - May 2022  
+*CGPA: 3.86/4.0; First Class*
 
 ## Experience
 
-Ascentic Pvt Ltd | Data Scientist | April 2018 - present
+**QCA Systems Ltd** | Machine Learning Engineer | April 2024 - Present
 
-Creative Software Pvt Ltd | Data Science Intern | Spet 2012 - April 2018
+**Simon Fraser University** | Teaching Assistant | Jan 2025 - Present
+
+**Ascentic Pvt Ltd** | Data Scientist | May 2022 - July 2023
+
+**Creative Software Pvt Ltd** | Data Science Intern | Oct 2020 - May 2021

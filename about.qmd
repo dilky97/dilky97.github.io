@@ -1,0 +1,121 @@
+---
+title: "Resume"
+---
+
+# DILKY FELSINGER
+[dilky_felsinger@sfu.ca](mailto:dilky_felsinger@sfu.ca) | [dilky97.github.io](https://dilky97.github.io)
+
+## EDUCATION
+
+### Master of Science in Interactive Arts and Technology
+*School of Interactive Arts and Technology - Simon Fraser University* | Surrey, BC  
+Sep 2024 - Present  
+Current GPA - 4.33/4.33
+
+### Bachelor of Science (Honors) in Computer Science
+*University of Colombo* | Colombo, Sri Lanka  
+Jan 2018 - May 2022  
+CGPA: 3.86/4.0; First Class
+
+## RESEARCH EXPERIENCE
+
+### Research Assistant
+*Tangible Embodied Child-Computer Interaction (TECI) Lab* | SIAT - SFU  
+Sep 2024 - Present
+- Projects - Supporting Children to Develop AI Literacy through Experiential Learning
+- Conducting literature reviews to support ongoing research projects and identify knowledge gaps.
+
+### Undergraduate Researcher
+*UCSC Spatial Experience And Human-Computer Interaction Lab* | University of Colombo  
+May 2021 - May 2022
+- Conducted a mixed-methods study to understand the challenges of scaling online exams in Sri Lanka and explored methods to improve online proctoring systems in low-resource settings.
+- Planned and executed a user study to gather information about participant experiences with online exams and analyzed the gathered data to inform improvements in online proctoring systems.
+- Authored a research paper advocating for informed decision-making when deploying online proctoring technologies, based on the findings of the mixed-methods study.
+- Designed and implemented a deep-learning based video action recognition system for online exam proctoring.
+- Mentored a group of 4 lower-level undergraduates to develop a web-based online examination system as a part of the research project.
+
+## TEACHING EXPERIENCE
+
+### Teaching Assistant
+*School of Interactive Arts and Technology, Simon Fraser University* | Surrey, BC, Canada  
+Jan 2025 - Present
+- IAT 459 - Internet Computing Technologies (Spring 2025)
+- Provided support for IAT 459 Internet Computing Technologies, assisting students with course material and practical application of web development technologies.
+- Conducted regular tutorials to reinforce key concepts, provide hands-on coding practice, and address student questions.
+- Graded student assignments and projects, providing constructive feedback to improve understanding and skill development.
+
+## PROFESSIONAL EXPERIENCE
+
+### Machine Learning Engineer
+*QCA Systems Ltd* | Delta, BC, Canada  
+April 2024 - Present
+- Implemented an anomaly detection system using Isolation Forests, and SVMs to analyze sensor data from a coal handling terminal in a Python environment.
+- Developed and optimized AI pipelines for real-time sensor data, enabling efficient anomaly detection for identifying unexpected events in the coal terminal.
+- Integrated anomaly predictions with a notification system to trigger alerts for identified anomalies.
+- Utilized unit testing principles and debugging techniques to ensure the robustness and accuracy of the anomaly detection system.
+
+### Tutor (Math & Computer Science)
+*Self-Employed, Superprof Canada*  
+Sep 2017 - Present
+- Provided comprehensive instruction in STEM subjects, showcasing effective communication skills.
+- Conducted engaging in-person and online tutoring sessions for individuals and groups of 5-6 secondary and high school students.
+- Crafted impactful educational materials, including well-designed lesson plans, hands-on projects, assignments, and practice problems.
+
+### Data Scientist
+*Ascentic Pvt Ltd* | Colombo, Sri Lanka  
+May 2022 - July 2023
+- Conducted thorough literature review in hierarchical product classification using NLP using LLMs such as BERT.
+- Performed exploratory data analysis on large, unstructured datasets using Python, resulting in an 8% improvement in predictive accuracy.
+- Developed and deployed large-scale text classification models for hierarchical product classification using Python and Huggingface transformers, achieving an F1-Score of 83%.
+- Leveraged AWS Sagemaker MLOps tools to deploy batch transforms, resulting in a 40% reduction in model deployment time.
+
+### Data Science Intern
+*Creative Software Pvt Ltd* | Colombo, Sri Lanka  
+Oct 2020 - May 2021
+- Engineered a Sales Promotion Prediction Application using Python and Azure ML, enabling accurate sales forecasting and promotion planning.
+- Collaborated with a cross-functional team to design and develop a web application for visualization and planning using Plotly Dash.
+- Established a CI/CD pipeline for production deployment, improving application delivery efficiency.
+
+## RESEARCH PUBLICATIONS
+
+### Peer-Reviewed Publications
+- Felsinger, D. N., T. Halloluwa, and C. L. I. Fonseka. "Experiences Of Conducting Online Exam Proctoring In Low-Resource Settings: A Sri Lankan Case Study". Information Technologies and Learning Tools, vol. 93, no. 1, Feb. 2023, pp. 163-77, doi:10.33407/itlt.v93i1.5094.
+- Felsinger, D., Halloluwa, T. & Fonseka, I. Video-based action detection for online exam proctoring in resource-constrained settings. Education and Information Technologies (2023). https://doi.org/10.1007/s10639-023-12385-1
+
+### Poster Presentations
+- Felsinger, D. N., T. Halloluwa, and C. L. I. Fonseka. Towards a Framework for Online Exam Proctoring in Resource-Constrained Settings Focusing on Preserving Academic Integrity, International Conference on ICT for Emerging Regions (ICTer), 2021
+
+## VOLUNTEER EXPERIENCE
+
+### Client Services Volunteer - Health Equipment Loan Program
+*Canadian Red Cross*  
+Sep 2023 - Present
+- Provided outstanding customer service to Health Equipment Loan Program clients, offering compassionate support.
+- Managed data entry, equipment selection and adjustment, and handled inquiries effectively.
+
+### Coordinator - Regional Engagement and Together Sri Lanka
+*Rotaract District 3220 - Sri Lanka And Maldives*  
+Jul 2020 - Jul 2021
+- Coordinated with 70+ Rotaract Clubs across Sri Lanka for Project Together SL, focusing on the UN's Sustainable Development Goals.
+- Secretary for the project The Art of Peace, a short film competition focusing on peace and harmony.
+
+### Registration Team Lead - IntelliHack 2019
+*IEEE Computer Society Student Branch Chapter - University Of Colombo*  
+Aug 2019 - Nov 2019
+- Led a team of 10 volunteers and managed nearly 250 attendee and competitor registrations for the Inter-University Hackathon and Workshop Series on Machine Learning.
+
+## AWARDS AND HONORS
+- Director's List - University of Colombo School of Computing - Semesters I, III, IV, V, VII, VIII
+- The Most Outstanding Community Service Project (Peace and Harmony) - 30th Rotaract District Assembly
+
+## SKILLS
+- **Languages**: Python, R
+- **Web Development**: HTML, CSS, Javascript, PHP
+- **Cloud Computing**: AWS, Azure
+- **Machine Learning**: Scikit-learn, Pandas, NumPy, PyTorch, Tensorflow, HuggingFace
+- **Tools**: Git, VSCode, RStudio, Docker, Jupyter Notebooks, Conda
+
+## CERTIFICATIONS
+- MIT IDSS: Data Science and Machine Learning: Making Data-Driven Decisions
+- Microsoft: Azure Data Scientist Associate, Azure AI Fundamentals
+- Coursera: Machine Learning – Stanford University, Deep Learning Specialization, Natural Language Processing Specialization, DeepLearning.AI TensorFlow Developer Specialization, Generative Adversarial Networks (GANs) Specialization

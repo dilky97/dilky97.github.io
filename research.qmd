@@ -2,4 +2,39 @@
 title: "Research"
 ---
 
-About this site
+# Research Experience & Publications
+
+## Current Research
+### Supporting Children to Develop AI Literacy through Experiential Learning
+*Research Assistant at Tangible Embodied Child-Computer Interaction (TECI) Lab, Simon Fraser University*  
+Sep 2024 - Present
+
+My current research focuses on developing approaches to help children build AI literacy through hands-on, experiential learning activities. This work is being conducted at the TECI Lab under the supervision of faculty at Simon Fraser University's School of Interactive Arts and Technology.
+
+## Past Research
+### Online Exam Proctoring In Resource-Constrained Settings
+*Undergraduate Researcher, UCSC Spatial Experience And Human-Computer Interaction Lab*  
+May 2021 - May 2022
+
+This research focused on understanding and addressing the challenges of conducting online exams in resource-constrained environments, with particular emphasis on Sri Lanka. The project included:
+
+- Mixed-methods study to identify challenges in scaling online exams
+- Design and implementation of a deep learning-based video action recognition system
+- Development of a framework for online exam proctoring in resource-constrained settings
+
+## Publications
+
+### Peer-Reviewed Journal Articles
+1. **Felsinger, D., Halloluwa, T. & Fonseka, I.** (2023). Video-based action detection for online exam proctoring in resource-constrained settings. *Education and Information Technologies*. [https://doi.org/10.1007/s10639-023-12385-1](https://doi.org/10.1007/s10639-023-12385-1)
+
+2. **Felsinger, D. N., T. Halloluwa, and C. L. I. Fonseka.** (2023). Experiences Of Conducting Online Exam Proctoring In Low-Resource Settings: A Sri Lankan Case Study. *Information Technologies and Learning Tools*, vol. 93, no. 1, pp. 163-77. [doi:10.33407/itlt.v93i1.5094](https://doi.org/10.33407/itlt.v93i1.5094)
+
+### Conference Presentations
+1. **Felsinger, D. N., T. Halloluwa, and C. L. I. Fonseka.** (2021). Towards a Framework for Online Exam Proctoring in Resource-Constrained Settings Focusing on Preserving Academic Integrity. *International Conference on ICT for Emerging Regions (ICTer)* [Poster Presentation]
+
+## Research Interests
+- Human-Computer Interaction (HCI)
+- AI Literacy and Educational Technology
+- Online Learning Technologies
+- Machine Learning Applications in Education
+- Computer Vision for Educational Contexts

@@ -2,4 +2,78 @@
 title: "Projects"
 ---
 
-About this site
+# Projects Portfolio
+
+## Academic & Research Projects
+
+### Online Exam Proctoring System for Resource-Constrained Environments
+*May 2021 - May 2022*
+
+This project addressed the challenges of conducting secure online examinations in settings with limited technological resources, common in developing countries like Sri Lanka.
+
+**Key Components:**
+- Designed and implemented a deep learning model for video action recognition to identify academic misconduct
+- Developed strategies for minimizing bandwidth usage while maintaining proctoring integrity
+- Created a framework for adapting proctoring technologies to low-resource contexts
+
+**Technologies Used:** Python, TensorFlow, OpenCV, Flask
+
+---
+
+### Project Linsight - Learning Analytics Visualization Tool
+*May 2020 - August 2020*
+
+Developed an interactive learning analytics dashboard to help educators monitor and respond to student engagement and performance data from the Moodle LMS platform.
+
+**Key Features:**
+- Real-time analytics of Moodle logs for approximately 800 undergraduate students
+- Interactive visualizations of student engagement patterns
+- Early warning system to identify at-risk students
+- Customizable reporting for different stakeholder needs
+
+**Technologies Used:** HTML, CSS, JavaScript, PHP, MySQL, Moodle API
+
+---
+
+## Professional Projects
+
+### Anomaly Detection System for Coal Handling Terminal
+*QCA Systems Ltd, April 2024 - Present*
+
+Developed a machine learning system to detect anomalies in sensor data from a coal handling terminal, enabling proactive maintenance and preventing costly downtime.
+
+**Key Components:**
+- Implemented anomaly detection algorithms using Isolation Forests and SVMs
+- Created real-time data processing pipelines for streaming sensor data
+- Developed an alert notification system for detected anomalies
+- Implemented comprehensive testing protocols to ensure system reliability
+
+**Technologies Used:** Python, scikit-learn, Pandas, NumPy, AWS services
+
+---
+
+### Hierarchical Product Classification System
+*Ascentic Pvt Ltd, 2022-2023*
+
+Built a large-scale text classification system for automatically categorizing products into a complex hierarchical taxonomy.
+
+**Key Achievements:**
+- Achieved 83% F1-score for multi-level classification tasks
+- Reduced manual classification workload by approximately 70%
+- Deployed using AWS SageMaker, reducing model deployment time by 40%
+
+**Technologies Used:** Python, Hugging Face Transformers, BERT, AWS SageMaker
+
+---
+
+### Sales Promotion Prediction Application
+*Creative Software Pvt Ltd, 2020-2021*
+
+Created a web application to predict the effectiveness of sales promotions and enable data-driven planning for retail businesses.
+
+**Features:**
+- Sales forecasting based on historical data and promotion variables
+- Interactive visualization dashboard for promotion planning
+- CI/CD pipeline for continuous deployment and updates
+
+**Technologies Used:** Python, Azure ML, Plotly Dash
