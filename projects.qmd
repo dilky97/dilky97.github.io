@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-# Projects Portfolio
-
 ## Academic & Research Projects
 
 ### Online Exam Proctoring System for Resource-Constrained Environments
